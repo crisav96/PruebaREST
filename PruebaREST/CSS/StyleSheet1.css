@@ -1,0 +1,15 @@
+﻿body{
+    background-color: lightseagreen;
+}
+
+
+.centrado-en-pantalla {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.textbox-label {
+    margin-left: 20px;
+}
